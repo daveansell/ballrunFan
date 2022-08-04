@@ -1,4 +1,7 @@
 # ballrunFan
+
+Sofware for sciansell ball run fans. Find out more at https://www.sciansell.co.uk/node/113 and https://www.sciansell.co.uk/node/91
+
 To install 
 git clone --recurse-submodules git@github.com:daveansell/ballrunFan.git
 
