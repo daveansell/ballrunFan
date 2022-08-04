@@ -1,0 +1,3 @@
+[submodule "libraries/CapacitiveSensor"]
+	path = libraries/CapacitiveSensor
+	url = https://github.com/PaulStoffregen/CapacitiveSensor.git
